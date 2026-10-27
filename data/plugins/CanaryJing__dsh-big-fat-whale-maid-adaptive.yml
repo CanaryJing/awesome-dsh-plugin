@@ -1,0 +1,7 @@
+url: https://github.com/CanaryJing/dsh-big-fat-whale-maid-adaptive
+name: CanaryJing/dsh-big-fat-whale-maid-adaptive
+category: agi
+description:
+  en: Agent preset with adaptive tool presentation and environment-aware shell routing.
+  zh: 提供自适应工具呈现与环境适配 Shell 路由的智能体预设。
+tarball: https://github.com/CanaryJing/dsh-big-fat-whale-maid-adaptive/releases/download/v3.2.2/dsh-preset-big-fat-whale-maid-adaptive-3.2.2.tgz
